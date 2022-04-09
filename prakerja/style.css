@@ -1,0 +1,17 @@
+.jumbotron{
+  padding-top:6rem;
+  background-color:#66CDAA
+}
+.des{
+    background: #F97300;
+    color: #fff;
+    text-align: center;
+    border-top-right-radius: 93%;
+    transition: .3s ease-in-out;
+    position: absolute;
+    width: 88%;
+    bottom: 24px;
+}
+section{
+  padding-top:4rem;
+}
